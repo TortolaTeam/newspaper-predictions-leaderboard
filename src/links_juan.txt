@@ -1,0 +1,6 @@
+https://clickbaitdetector.com/ --> Modelo hecho con detector
+
+
+Proyectos:
+https://www.kaggle.com/code/amananandrai/clickbait-detector-naive-bayes-classifier
+https://github.com/AlisonSalerno/clickbait_detector
